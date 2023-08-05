@@ -18,6 +18,11 @@ This application automates and digitalizes various activities like:
 7. User settings showcase the details of the user as registered with the institute and thus cannot be changed✅
 
 # Snapshots
+![image](https://github.com/Yashi11/Mess-Application--IIIT-Dharwad/assets/73705143/5cb7f24c-9890-42d2-b91c-dafe7e67daa4)
+![image](https://github.com/Yashi11/Mess-Application--IIIT-Dharwad/assets/73705143/ab44837f-4d72-43b1-a028-5836446a77f0)
+![image](https://github.com/Yashi11/Mess-Application--IIIT-Dharwad/assets/73705143/d6372093-5352-4134-9114-d468fd5a2327)
+
+
 # How To Use the Project
 You need to configure firebase once you start this project. This can be done as follows:
 1. LogInto your firebase account by 
