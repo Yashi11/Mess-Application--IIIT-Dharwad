@@ -11,6 +11,8 @@ import 'package:firebase_core/firebase_core.dart';
 
 import '../widgets/DropDown.dart';
 
+//Register Widget Auth through Google fire base
+
 class RegisterPage extends StatefulWidget {
   @override
   State<RegisterPage> createState() => _RegisterPageState();

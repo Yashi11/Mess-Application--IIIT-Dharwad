@@ -6,6 +6,8 @@ import '../Screens/MainScreen.dart';
 import 'fireAuth.dart';
 import 'login.dart';
 
+// Email verification through Firebase
+
 class VerifyEmail extends StatefulWidget {
   @override
   State<VerifyEmail> createState() => _VerifyEmailState();
